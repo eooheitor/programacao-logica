@@ -1,4 +1,4 @@
-# Projeto Prolog: [Título do Trabalho]
+# Projeto Prolog:
 
 Este projeto foi desenvolvido em Prolog para aprender sobre os conceitos de programação lógica e entender mais sobre o prolog.
 
